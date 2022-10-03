@@ -1,0 +1,18 @@
+﻿Ex3-2.exe' (Win32): 已載入 'C:\Users\student\source\repos\Ex3-1\Debug\Ex3-2.exe'。已載入符號。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ntdll.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel32.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\KernelBase.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\vcruntime140d.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\ucrtbased.dll'。
+0x78c 執行緒以返回碼 0 (0x0) 結束。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\kernel.appcore.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\msvcrt.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\rpcrt4.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sspicli.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\cryptbase.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\bcryptprimitives.dll'。
+Ex3-2.exe' (Win32): 已載入 'C:\Windows\SysWOW64\sechost.dll'。
+0x20f0 執行緒以返回碼 0 (0x0) 結束。
+0x2a64 執行緒以返回碼 0 (0x0) 結束。
+0x1ba4 執行緒以返回碼 0 (0x0) 結束。
+'[1620] Ex3-2.exe' 程式以返回碼 0 (0x0) 結束。
